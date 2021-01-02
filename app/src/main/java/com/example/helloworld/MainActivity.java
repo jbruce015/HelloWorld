@@ -70,8 +70,7 @@ public class MainActivity extends AppCompatActivity {
                 } else{
                     textView.setText(userEnteredText);
                 }
-                textView.setText(userEnteredText);
-            }
+               }
         });
     }
 }
